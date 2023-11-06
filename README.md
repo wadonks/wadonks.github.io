@@ -1,5 +1,1 @@
-**This is a website!**
-
-Testing editing on another computer!!
-
-
+A small personal website in html!!
